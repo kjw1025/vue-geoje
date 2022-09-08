@@ -1,0 +1,82 @@
+[
+    {
+        "maintxt": "청년센터",
+        "mainlink": "#",
+        "submenu": [
+            {"subtxt": "청년센터소개", "sublink": "#"},
+            {"subtxt": "프로그램안내", "sublink": "#"},
+            {"subtxt": "보유도서목록", "sublink": "#"},
+            {"subtxt": "공간안내", "sublink": "#"},
+            {"subtxt": "오시는길", "sublink": "#"}
+        ]
+    },
+    {
+        "maintxt": "청년정책",
+        "mainlink": "#",
+        "submenu": [
+            {"subtxt": "정책소식", "sublink": "#"},
+            {"subtxt": "분야별 청년정책", "sublink": "#"},
+            {"subtxt": "청년네트워크 소개", "sublink": "#"},
+            {"subtxt": "청년주요활동", "sublink": "#"},
+            {"subtxt": "청년정책 검색", "sublink": "#"},
+            {"subtxt": "아카이브", "sublink": "#"},
+            {"subtxt": "청춘다락", "sublink": "#"}
+        ]
+    },
+    {
+        "maintxt": "청년일자리",
+        "mainlink": "#",
+        "submenu": [
+            {"subtxt": "일자리정책", "sublink": "#"},
+            {"subtxt": "구인 및 구직 등록", "sublink": "#"},
+            {"subtxt": "채용정보", "sublink": "#"},
+            {"subtxt": "교육훈련", "sublink": "#"},
+            {"subtxt": "창업정보", "sublink": "#"}
+        ]
+    },
+    {
+        "maintxt": "사업소개",
+        "mainlink": "#",
+        "submenu": [
+            {"subtxt": "사업안내", "sublink": "#"},
+            {"subtxt": "사업일정표", "sublink": "#"}
+        ]
+    },
+    {
+        "maintxt": "공간예약",
+        "mainlink": "#",
+        "submenu": [
+            {"subtxt": "공간신청", "sublink": "#"},
+            {"subtxt": "공간신청 현황", "sublink": "#"}
+        ]
+    },
+    {
+        "maintxt": "커뮤니티",
+        "mainlink": "#",
+        "submenu": [
+            {"subtxt": "이룸소식", "sublink": "#"},
+            {"subtxt": "자유게시판", "sublink": "#"},
+            {"subtxt": "활동갤러리", "sublink": "#"},
+            {"subtxt": "청년뉴스", "sublink": "#"},
+            {"subtxt": "동영상자료", "sublink": "#"}
+        ]
+    },
+    {
+        "maintxt": "청년창업공간(<span style='color: #ff8000;'>내</span><span style='color: #0365ad;'>꿈</span><span style='color: #93be49;'>공</span><span style='color: #f35c8a;'>간</span>)",
+        "mainlink": "#",
+        "submenu":[
+            {
+                "sublink":"#",
+                "subtxt":"<span style='color:#ff8000'>내</span><span style='color:#0365ad'>꿈</span><span style='color:#93be49'>공</span><span  style='color:#f35c8a'>간</span> 소개"
+            },
+            {
+                "sublink":"#",
+                "subtxt":"<span style='color:#ff8000'>내</span><span style='color:#0365ad'>꿈</span><span style='color:#93be49'>공</span><span  style='color:#f35c8a'>간</span> 대관신청"
+            },
+            {
+                "sublink":"#",
+                "subtxt":"<span style='color:#ff8000'>내</span><span style='color:#0365ad'>꿈</span><span style='color:#93be49'>공</span><span  style='color:#f35c8a'>간</span> 대관현황"
+            }
+        ]
+    }
+]
